@@ -1,0 +1,39 @@
+.input-block {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #ADD8E6;
+    font-family: Arial, Hevlvetica, sans-serif;
+    text-align: center;
+    vertical-align: text-bottom;
+    color:#000;
+    font-size: 12px;
+}
+
+.pictures {
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #ADD8E6;
+}
+.card {
+    margin: 5px 5px 5px 5px;
+    border: 2px solid #55c5e9;
+    width: 150px;
+    height: 100px;
+}
+
+.btn {
+    padding-left: 5px;
+    font-family: Arial, Hevlvetica, sans-serif;
+    text-align: center;
+    vertical-align: text-bottom;
+    color:#000;
+    font-size: 15px;
+    font-weight: bold;
+    border: 0px double #cccccc;
+    width: auto;
+    cursor: pointer;
+}
+
